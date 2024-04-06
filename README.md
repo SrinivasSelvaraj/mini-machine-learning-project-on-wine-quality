@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/wine-quality-prediction.git
+git clone https://github.com/SrinivasSelvaraj
 Navigate to the project directory:
 
 bash
