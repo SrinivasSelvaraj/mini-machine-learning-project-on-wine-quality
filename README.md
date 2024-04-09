@@ -21,17 +21,15 @@ git clone https://github.com/SrinivasSelvaraj
 Navigate to the project directory:
 
 bash
-Copy code
 cd wine-quality-prediction
 Install the required dependencies:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 Run the Jupyter Notebook:
 
 bash
-Copy code
 jupyter notebook wine_quality_prediction.ipynb
 Follow the instructions in the notebook to explore the dataset, preprocess the data, train the machine learning model, and evaluate its performance.
 
